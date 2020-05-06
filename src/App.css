@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.create-book-container {
+  border: 1px solid #ccc;
+  margin: 20px;
+  padding: 5px;
+}
+
+.books-list-container {
+  border: 1px solid #ccc;
+  margin: 20px;
+  padding: 15px;
+}
